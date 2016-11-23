@@ -4,6 +4,7 @@
 Merged training and the test sets to create one data set.
 Following are the dimensions of Combined_data
 > dim(combined_data)
+
 [1] 10299   563
 
 ## narrow_data
@@ -12,12 +13,14 @@ Following are the dimensions of Combined_data
 3. Appropriately labels the data set with descriptive variable names
 Following are the dimensions of narrow_data
 > dim(narrow_data)
+
 [1] 10299    68
 
 ## my_tidy_dataset
 From the above mentioned narrow_data data set, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Following are the dimensions of my_tidy_dataset
 > dim(my_tidy_dataset)
+
 [1] 180  68
 
 ## Final list of Fields
