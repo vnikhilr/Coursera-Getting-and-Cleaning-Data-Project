@@ -12,6 +12,7 @@ Following are the dimensions of Combined_data
 2. Uses descriptive activity names to name the activities in the data set and
 3. Appropriately labels the data set with descriptive variable names
 Following are the dimensions of narrow_data
+
 > dim(narrow_data)
 
 [1] 10299    68
