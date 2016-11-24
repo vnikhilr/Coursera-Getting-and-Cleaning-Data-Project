@@ -17,23 +17,23 @@ The experiments were video-recorded to label the data manually. The obtained dat
 
 The output of the script run_analysis.R is `my_tidy_dataset.txt`.
 
-The original dataset included the following data files:
+Data files in the original dataset:
 =======================================================
-- 'features.txt': List of all features.
+- `features.txt`: List of all features.
 
-- 'activity_labels.txt': List of class labels and their activity name.
+- `activity_labels.txt`: List of class labels and their activity name.
 
-- 'train/X_train.txt': Training set.
+- `train/X_train.txt`: Training set.
 
-- 'train/y_train.txt': Training labels.
+- `train/y_train.txt`: Training labels.
 
-- 'train/subject_train.txt': ID's of subjects in the training data
+- `train/subject_train.txt`: ID's of subjects in the training data
 
-- 'test/X_test.txt': Test set.
+- `test/X_test.txt`: Test set.
 
-- 'test/y_test.txt': Test labels.
+- `test/y_test.txt`: Test labels.
 
-- 'test/subject_test.txt': ID's of subjects in the training data
+- `test/subject_test.txt`: ID's of subjects in the training data
 
 
 A brief description of the script:
